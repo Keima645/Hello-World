@@ -1,7 +1,8 @@
 # Hello-World
 
->>#incoming message from point PCN::d0672-t9278-x2861;
->>#message decoded;
+>>#incoming message from point PCN::d0672-t9278-x2861
+>>#message decoded
+
 "Hello Hoomans!
 
 We are coming near, the invasion will begin in a few years.
